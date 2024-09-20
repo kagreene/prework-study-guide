@@ -27,6 +27,7 @@ img {
 ul {
     padding-left: 40 px;
     font-size: 20 px;
+    list-style-position: inside;
 }
 
 p {
